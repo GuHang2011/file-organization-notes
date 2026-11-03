@@ -1,0 +1,16 @@
+[
+  {
+    "name": "file-organizer",
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "path": "file-organizer",
+    "sha256": "a8b91952bab7f73511db68149c4a54672b40699903a8e35ed5044c3e3039ded5",
+    "installed": true
+  },
+  {
+    "name": "invoice-organizer",
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "path": "invoice-organizer",
+    "sha256": "62198235231376cb09bc28bd601fb120d3ef24b3ddb55c4b71965f9044352fda",
+    "installed": true
+  }
+]
